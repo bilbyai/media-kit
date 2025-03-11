@@ -2,6 +2,12 @@
 
 <p align="center">Official static assets for Bilby used for promotional materials, email templates, etc.</p>
 
+### Bilby's Primary Colors
+
+| HEX     | HSL                 | RGB              |
+| ------- | ------------------- | ---------------- |
+| #84171f | hsl(356°, 70%, 30%) | rgb(130, 23, 30) |
+
 ### Assets
 
 #### SVGs
